@@ -1,7 +1,5 @@
 # Credit-Card-Fraud
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/wvR6rDfYFNE6uyuVSxnXb5hg/DakshMiglani/Credit-Card-Fraud'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/wvR6rDfYFNE6uyuVSxnXb5hg/DakshMiglani/Credit-Card-Fraud.svg' />
-</a>
+
 In the world of Technology, Credit Card Fraudulent Transactions are fairly Common and this is a Deep Neural Network (Algorithm) that can classify these transactions just by looking at the data with 99.92% Accuracy which is likely to be very accurate.
 
 This Neural Network is based of the [Credit-Card-Fraud](https://www.kaggle.com/dalpozz/creditcardfraud) Data available on Kaggle, It contains a whooping 248,407 Transactions which occurred in September 2013 by European Card Holders.
